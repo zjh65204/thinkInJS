@@ -24,5 +24,4 @@ function outputNumbers1(count) {
 圆括号包裹函数声明，可以将函数声明转化为表达式。*/
 (function () {
   // 这里是块级作用域
-})()
-
+})();
